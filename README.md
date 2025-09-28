@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CybersecurityMom, and I am a Founding CEO and Cybersecurity Analyst.
+- 👋 Hi, I’m @CybersecurityMom. I am a Founding CEO and Cybersecurity Analyst.
 - 🌱 I'm Cybersecurity Certified, AWS Certified, and AWS Partner Network Accredited.
 - 👀 I’m interested in expanding my Cybersecurity Skills and Blogging.
 - 🌱 I’m currently learning NIST 800-53, 800-53a, 800-37, 800-61.
