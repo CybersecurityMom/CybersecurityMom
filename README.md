@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @CybersecurityMom. I am a Founding CEO and Cybersecurity Analyst.
-- 🌱 I'm Cybersecurity Certified, AWS Certified, and AWS Partner Network Accredited.
-- 👀 I’m interested in expanding my Cybersecurity Skills and Blogging.
-- 🌱 I’m currently learning NIST 800-53, 800-53a, 800-37, 800-61.
-- 💞️ I’m looking to collaborate on Governance Risk and Incident Response Projects.
-- 📫 How to reach me aqscorner@gmail.com
+👋 Hi, I’m Aqueelah “CybersecurityMom” Emanuel — Founding CEO of AQ’s Corner LLC, Cybersecurity Analyst, and Educator.
+
+🔐 What I bring:
+
+Certified Cybersecurity Analyst with AWS (CCP + APN) and ISC2 CC, experienced in incident response, governance, and compliance.
+
+Founder of a mother-daughter cybersecurity education mission, delivering workshops, books, and programs that make digital safety approachable for families, schools, and small businesses.
+
+Skilled in applying NIST frameworks (800-53, 800-53a, 800-37, 800-61) with a growing focus on risk management and cloud compliance.
+
+🤝 Who I work with:
+
+Employers needing a sharp, certified analyst with strong compliance and communication skills.
+
+Partners interested in co-creating cybersecurity resources, workshops, or response simulations.
+
+Small businesses & educators who want cybersecurity programs that demystify security without the jargon.
+
+🌐 Let’s connect: aqscorner.com
 
 
 <!---
