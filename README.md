@@ -2,8 +2,9 @@
 
 🔐 What I bring:
 
-📜 Cybersecurity certified (ISC2 CC, AWS CCP + APN) with experience in incident response, governance, and compliance.
-📚 Founder of a mother-daughter cybersecurity education mission, delivering workshops, books, and programs that make digital safety approachable for families, schools, and small businesses.
+📜 **Cybersecurity certified** (ISC2 CC, AWS CCP + APN) with experience in **incident response**, **governance**, and **compliance**.  
+📚 **Founder of a mother–daughter cybersecurity education mission**, delivering **workshops**, **books**, and **programs** that make digital safety approachable for families, schools, and small businesses.  
+
 
 🛡️ Skilled in applying NIST frameworks (800-53, 800-37, 800-61) with a growing focus on risk management and cloud compliance.
 
