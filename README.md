@@ -9,14 +9,17 @@
 
 🧩 Current Projects (in collaboration with organizations):
 
-🌐 Partnering to develop a web hosting decision tree to help small businesses evaluate and choose secure, scalable hosting solutions.
-🤖 Consulting in an AI UX Research & Cybersecurity innovation lab cohort, where I provide security feedback and help shape an AI-powered career-readiness tool with trust-centered design and compliance alignment.
+🌐 Building tools that make tech feel human — from a *web hosting decision tree* that guides small businesses toward secure, scalable choices,  
+to an *AI UX & Cybersecurity Innovation Lab* where I help design career-readiness tools built on trust and transparency.  
 
-🤲 Who I work with:
+---
 
-🏢 Employers seeking a cybersecurity professional with proven skills in compliance, governance, and communication.
-🔗 Partners interested in co-creating cybersecurity resources, workshops, or incident response simulations.
-🎓 Small businesses & educators who want cybersecurity programs that demystify security without the jargon.
+🤲 **Who I Work With**  
+
+🏢 Employers who value clear communication as much as compliance.  
+🔗 Partners ready to co-create resources, workshops, and cyber simulations that make safety second nature.  
+🎓 Small businesses & educators who believe cybersecurity should *empower*, not intimidate.  
+
 
 🌐 Let’s connect: aqscorner.com
 
