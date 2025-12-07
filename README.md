@@ -10,7 +10,7 @@
 
 🧩 Current Projects (in collaboration with organizations):
 
-🌐 Building tools that make tech feel human — from a *web hosting decision tree* that guides small businesses toward secure, scalable choices,  
+🌐 Building tools that make tech feel humanfrom a *web hosting decision tree* that guides small businesses toward secure, scalable choices,  
 to an *AI UX & Cybersecurity Innovation Lab* where I help design career-readiness tools built on trust and transparency.  
 
 ---
