@@ -22,7 +22,7 @@ Partners ready to co-create resources, workshops, and cyber simulations that mak
 Small businesses & educators who believe cybersecurity should *empower*, not intimidate.  
 
 
-🌐 Let’s connect: aqscorner.com
+Let’s connect: aqscorner.com
 
 <!---
 CybersecurityMom/CybersecurityMom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
