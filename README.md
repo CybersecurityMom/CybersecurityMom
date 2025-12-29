@@ -1,4 +1,4 @@
-👋 Hi, I’m Aqueelah “CybersecurityMom” Emanuel — Founding CEO of AQ’s Corner LLC, Cybersecurity Analyst, and Educator.
+👋 Hi, I’m Aqueelah “CybersecurityMom” Emanuel, Founding CEO of AQ’s Corner LLC, Cybersecurity Analyst, and Educator.
 
 🔐 What I bring:
 
