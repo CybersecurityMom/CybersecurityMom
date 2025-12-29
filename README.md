@@ -10,7 +10,7 @@ What I bring:
 
 Current Projects (in collaboration with organizations):
 
-🌐 Building tools that make tech feel humanfrom a *web hosting decision tree* that guides small businesses toward secure, scalable choices,  
+Building tools that make tech feel humanfrom a *web hosting decision tree* that guides small businesses toward secure, scalable choices,  
 to an *AI UX & Cybersecurity Innovation Lab* where I help design career-readiness tools built on trust and transparency.  
 
 ---
@@ -22,7 +22,7 @@ Partners ready to co-create resources, workshops, and cyber simulations that mak
 Small businesses & educators who believe cybersecurity should *empower*, not intimidate.  
 
 
-Let’s connect: aqscorner.com
+🌐 Let’s connect: aqscorner.com
 
 <!---
 CybersecurityMom/CybersecurityMom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
