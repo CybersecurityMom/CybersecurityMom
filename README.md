@@ -1,3 +1,5 @@
+<img src="./ecosystem.svg" width="100%" alt="CybersecurityMom: a human-centered technology network connecting cybersecurity, responsible AI, AI evaluation, cloud, education, and building." />
+
 # Hi, I’m Aqueelah “CybersecurityMom” Emanuel 👋🏾
 
 I’m a **Cybersecurity Analyst, AI Safety & Responsible AI practitioner, educator, and Founding CEO of AQ’S CORNER**, where I build practical tools, education, and safeguards that help people and organizations use technology more safely and responsibly.
@@ -28,7 +30,7 @@ My projects intentionally emphasize **clear guardrails, human oversight, transpa
 
 I believe technology should not only be powerful. **It should be understandable, accountable, and designed around the people who actually have to use it.**
 
-That principle connects everything I build—from cybersecurity education to AI evaluation and safety-focused tools.
+That principle connects everything I build, from cybersecurity education to AI evaluation and safety-focused tools.
 
 ## Who I Work With
 
@@ -42,9 +44,8 @@ That principle connects everything I build—from cybersecurity education to AI 
 
 **Protection should feel like power, not panic.**
 
-🌐 **AQ’S CORNER:** https://aqscorner.com
+🌐 **AQ’S CORNER:** [https://aqscorner.com](https://aqscorner.com)
 
-<!---
-CybersecurityMom/CybersecurityMom is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+CybersecurityMom/CybersecurityMom is a special repository because its README.md appears on your GitHub profile.
+-->
